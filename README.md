@@ -1,1 +1,3 @@
 # My-Local-WebPage
+
+This HTML webpage serves as a personal introduction. It shares information about hobbies, favorite websites, movies, and contact details. The page features a responsive design with a navigation bar that links to different sections like "About Me," "Hobbies," "Websites," "Movies," and "Contact." The content includes a biography, a list of hobbies, a table of favorite movies, and a slideshow of movie covers. It also embeds media such as a video and audio player. The webpage uses external stylesheets (W3CSS) along with custom CSS for layout and design. JavaScript powers an automatic slideshow for the movie covers, changing images every 2 seconds. The footer section includes the author's contact information with an email link.
